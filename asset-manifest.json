@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CSS_Color_Shades/static/css/main.f1543182.chunk.css",
+    "main.js": "/CSS_Color_Shades/static/js/main.e964601b.chunk.js",
+    "main.js.map": "/CSS_Color_Shades/static/js/main.e964601b.chunk.js.map",
+    "runtime-main.js": "/CSS_Color_Shades/static/js/runtime-main.442f25a2.js",
+    "runtime-main.js.map": "/CSS_Color_Shades/static/js/runtime-main.442f25a2.js.map",
+    "static/js/2.33e84f77.chunk.js": "/CSS_Color_Shades/static/js/2.33e84f77.chunk.js",
+    "static/js/2.33e84f77.chunk.js.map": "/CSS_Color_Shades/static/js/2.33e84f77.chunk.js.map",
+    "index.html": "/CSS_Color_Shades/index.html",
+    "static/css/main.f1543182.chunk.css.map": "/CSS_Color_Shades/static/css/main.f1543182.chunk.css.map",
+    "static/js/2.33e84f77.chunk.js.LICENSE.txt": "/CSS_Color_Shades/static/js/2.33e84f77.chunk.js.LICENSE.txt",
+    "static/media/sound1.mp3": "/CSS_Color_Shades/static/media/sound1.87567b75.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.442f25a2.js",
+    "static/js/2.33e84f77.chunk.js",
+    "static/css/main.f1543182.chunk.css",
+    "static/js/main.e964601b.chunk.js"
+  ]
+}
